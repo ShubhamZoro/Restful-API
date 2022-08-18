@@ -1,0 +1,2 @@
+Here is the link of API documentation to be able to use the Restful API
+https://documenter.getpostman.com/view/19164072/VUqmwfT8
